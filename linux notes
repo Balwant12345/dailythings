@@ -1,0 +1,39 @@
+What is Linux?
+Linux is an open-source operating system kernel that serves as the foundation for various Linux distributions (or distros). It was developed by Linus Torvalds in 1991 and is based on the Unix operating system.
+
+Linux Distributions:
+Linux distributions are complete operating systems built on top of the Linux kernel. Some popular distributions include Ubuntu, Fedora, Debian, CentOS, and Linux Mint. Each distribution offers its own set of features, software packages, and user interfaces.
+
+Getting Started:
+To start learning Linux, you'll need a computer or a virtual machine to install a Linux distribution. You can choose a distribution based on your needs and preferences. Ubuntu is often recommended for beginners due to its user-friendly interface.
+
+Installation:
+Download the ISO image of your chosen Linux distribution from the official website. You can create a bootable USB drive using tools like Rufus (for Windows) or Etcher (for Windows, macOS, and Linux). Boot your computer from the USB drive and follow the installation instructions provided by the distribution.
+
+Command Line Interface (CLI):
+Linux provides a powerful command line interface called the Terminal, which allows you to interact with the system using text commands. The Terminal provides more control and flexibility compared to graphical interfaces. To open the Terminal, you can use the keyboard shortcut Ctrl+Alt+T in most distributions.
+
+Basic Commands:
+Here are some essential commands to get you started:
+
+ls: List files and directories.
+cd: Change directory.
+pwd: Print the current working directory.
+mkdir: Create a new directory.
+touch: Create a new file.
+cp: Copy files and directories.
+mv: Move or rename files and directories.
+rm: Remove files and directories.
+cat: View the contents of a file.
+nano or vim: Text editors to create and edit files.
+Package Management:
+Linux distributions use package managers to install, update, and remove software packages. The package manager handles dependencies and makes software management easier. For example, on Ubuntu, you can use apt package manager, while on Fedora, you can use dnf.
+
+File System Hierarchy:
+Linux follows a hierarchical file system structure. The root directory is denoted by /, and other directories are organized under it. Common directories include /home (user home directories), /etc (configuration files), /var (variable files), and /bin (essential command binaries).
+
+User Management:
+Linux is a multi-user system, and understanding user management is important. You can create, modify, and delete users, assign permissions, and manage user groups using commands such as adduser, usermod, userdel, passwd, and groupadd.
+
+Networking:
+Linux has robust networking capabilities. You can configure network interfaces, set up IP addresses, manage network services, and troubleshoot network issues using commands like ifconfig, ip, ping, ssh, and netstat.
